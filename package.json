@@ -1,0 +1,15 @@
+{
+    "name": "blogging-platform",
+    "version": "1.0.0",
+    "description": "Simple blogging platform with Node.js backend",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "fs-extra": "^10.0.0"
+    }
+  }
+  
